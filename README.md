@@ -3,7 +3,4 @@
 insta:r3zsr
 🗾🗾🗾
 style>
-  body {
-    background-color: Black ; /* لون الخلفية */
-  }
-</style>
+  
